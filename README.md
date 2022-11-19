@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Mihael, 
-- 👀 I’m interested in Video Games are Software.
+- 👀 I’m interested in Video Games and Software.
