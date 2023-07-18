@@ -1,2 +1,4 @@
-- 👋 Hi, I’m Mihael, 
-- 👀 I’m interested in Video Games and Software.
+- 👋 Hi, I’m Mihael,
+- 🇭🇷 I'm from Croatia. 
+- 👀 I'm interested in video games and software.
+- 🏫 I'm studying web design in high school in Osijek.
